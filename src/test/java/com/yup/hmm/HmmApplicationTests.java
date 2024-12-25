@@ -1,10 +1,10 @@
-package com.yup.stock_calculator;
+package com.yup.hmm;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class StockCalculatorApplicationTests {
+class HmmApplicationTests {
 
 	@Test
 	void contextLoads() {

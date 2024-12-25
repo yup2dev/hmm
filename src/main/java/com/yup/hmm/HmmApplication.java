@@ -1,13 +1,13 @@
-package com.yup.stock_calculator;
+package com.yup.hmm;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class StockCalculatorApplication {
+public class HmmApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(StockCalculatorApplication.class, args);
+		SpringApplication.run(HmmApplication.class, args);
 	}
 
 }
